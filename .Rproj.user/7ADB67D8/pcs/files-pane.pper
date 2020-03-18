@@ -1,0 +1,9 @@
+{
+    "path" : "~/Coding/R/investment-simulator/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584382096026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2992FB3E",
+    "lastKnownWriteTime" : 1584382448,
+    "last_content_update" : 1584382448128,
+    "path" : "~/Coding/R/investment-simulator/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "6,37",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

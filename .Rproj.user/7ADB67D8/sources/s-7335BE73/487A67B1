@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584469426225.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "4|20|25|0|\n26|14|87|4|\n30|39|86|4|\n112|26|146|6|\n",
+    "hash" : "0",
+    "id" : "487A67B1",
+    "lastKnownWriteTime" : 1584568229,
+    "last_content_update" : 1584568229662,
+    "path" : "~/Coding/R/investment-simulator/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "178,50",
+        "scrollLine" : "110"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
